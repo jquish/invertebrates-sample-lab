@@ -78,8 +78,8 @@ Important Characteristics:
 * Look at a cross section of *Peripatus*. Draw this and label the **heart (dorsal vessel), circular muscles, longitudinal muscles, nerve cord, leg, gut, body cavity, cuticle.** You may or may not be able to see uterus or testes depending on the where the slice was taken to make the slide. Refer to figure 15.4 of Pechenik and the figures below.
 </div>
 \
-![onycophoral](images/onycophoral.jpeg)
-![onycophorxs](images/onycophorxs.jpeg)
+![onycophoral](lab4-images/onycophoral.jpeg)
+![onycophorxs](lab4-images/onycophorxs.jpeg)
 \
 **See the preserved specimen of Onychophora. We only have two – please be careful with them and return them promptly if you take them to the microscope.**
 <br><br>
@@ -97,8 +97,8 @@ Tardigrades are called "water bears" due to the presence of "claws" on their eig
 \
 See Pg. 422, Fig 15.3 for additional images.   Can you believe how cute these are and that we’re surrounded by them. How lucky are we!  
 \
-![tardigrade dorsal](images/tardigradedorsal.jpeg)
-![tardigrade ventral](images/tardigradeventral.jpeg)
+![tardigrade dorsal](lab4-images/tardigradedorsal.jpeg)
+![tardigrade ventral](lab4-images/tardigradeventral.jpeg)
 \
 \
 See the slides of tardigrades in the teaching collection, and be able to identify them. Try to zoom in on their toes and see their eyes. The morphology is hard to see so I won’t have you draw them.  
@@ -143,7 +143,7 @@ Important characteristics:
 * Draw and label the following structures as on the figures below.  **Prosoma, opisthosoma, median eyes, lateral compound eyes, telson, chelicera, pedipalp, gnathobase, carapace, chelate walking legs.** Note how they differ from the other chelicerates in the collection. (Fig 14.10)
 </div>
 
-![](images/horseshoecrab.jpeg)
+![](lab4-images/horseshoecrab.jpeg)
 
 <br><br>
 
@@ -179,7 +179,7 @@ Important characteristics:
 + + **prosoma, opisthosoma, mesasoma, metasoma, chelicerae, pedipalp, chela, genital operculum, pectins, spiracle (book lung), telson (stinger), walking legs, eyes.**
 </div>
 
-![scorpions](images/scorpions.jpeg)
+![scorpions](lab4-images/scorpions.jpeg)
 <br><br>
 
 ##### Order Araneae  
@@ -199,7 +199,7 @@ Important characteristics:
 + + **prosoma, opisthosoma, pedipalp, chelicerae, fang, pedicel, labium, maxilla (=endites), epigastric furrow, lung slits, spinnerets, sternum, eyes.**  Be sure to see the **modified pedipalps of males** and the diversity of their forms, and **female epigynum**
 </div>
 
-![spiders](images/spiders.jpeg)
+![spiders](lab4-images/spiders.jpeg)
 \
 \
 **Other interesting things to see:**  
@@ -224,7 +224,7 @@ Required sketches:
 </div>
 \
 
-![](images/arachnids.jpeg)  
+![](lab4-images/arachnids.jpeg)  
 \
 Use figure 14.11 pg 353 of your text as a guide in your identification of body parts.  Notice the different degrees of tagmosis (the fusing of body segments through evolutionary time).
 
@@ -232,15 +232,15 @@ Use figure 14.11 pg 353 of your text as a guide in your identification of body p
 \
 \
 **Class Amblypygi**  
-![](images/amblypygi.jpeg)  
+![](lab4-images/amblypygi.jpeg)  
 \
 \
 **Class Uropygi**  
-![](images/uropygi.jpeg)  
+![](lab4-images/uropygi.jpeg)  
 \
 \
 **Class Opiliones**  
-![](images/opiliones.png)  
+![](lab4-images/opiliones.png)  
 <br><br><br>
 
 ##### SPIDER IDENTIFICATION – Introduction to using a dichotomous key
